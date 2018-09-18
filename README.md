@@ -1,0 +1,1 @@
+My solution for the 9-18-2018 Code Louisville C# exercise found [here.](https://github.com/d-paller/CL_ClassExercises/tree/master/WeekThreeExercise)

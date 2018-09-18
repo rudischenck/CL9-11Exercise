@@ -1,0 +1,11 @@
+/home/codelouisville/Documents/Treehouse/CL9-18Exercise/bin/Debug/netcoreapp2.1/CL9-18Exercise.deps.json
+/home/codelouisville/Documents/Treehouse/CL9-18Exercise/bin/Debug/netcoreapp2.1/CL9-18Exercise.runtimeconfig.json
+/home/codelouisville/Documents/Treehouse/CL9-18Exercise/bin/Debug/netcoreapp2.1/CL9-18Exercise.runtimeconfig.dev.json
+/home/codelouisville/Documents/Treehouse/CL9-18Exercise/bin/Debug/netcoreapp2.1/CL9-18Exercise.dll
+/home/codelouisville/Documents/Treehouse/CL9-18Exercise/bin/Debug/netcoreapp2.1/CL9-18Exercise.pdb
+/home/codelouisville/Documents/Treehouse/CL9-18Exercise/obj/Debug/netcoreapp2.1/CL9-18Exercise.csprojAssemblyReference.cache
+/home/codelouisville/Documents/Treehouse/CL9-18Exercise/obj/Debug/netcoreapp2.1/CL9-18Exercise.csproj.CoreCompileInputs.cache
+/home/codelouisville/Documents/Treehouse/CL9-18Exercise/obj/Debug/netcoreapp2.1/CL9-18Exercise.AssemblyInfoInputs.cache
+/home/codelouisville/Documents/Treehouse/CL9-18Exercise/obj/Debug/netcoreapp2.1/CL9-18Exercise.AssemblyInfo.cs
+/home/codelouisville/Documents/Treehouse/CL9-18Exercise/obj/Debug/netcoreapp2.1/CL9-18Exercise.dll
+/home/codelouisville/Documents/Treehouse/CL9-18Exercise/obj/Debug/netcoreapp2.1/CL9-18Exercise.pdb
